@@ -1,0 +1,10 @@
+C:\App\QLPT\QLPT\QuanLiPhongTro\DTO\bin\Debug\DTO.dll
+C:\App\QLPT\QLPT\QuanLiPhongTro\DTO\bin\Debug\DTO.pdb
+C:\App\QLPT\QLPT\QuanLiPhongTro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\App\QLPT\QLPT\QuanLiPhongTro\DTO\obj\Debug\DTO.dll
+C:\App\QLPT\QLPT\QuanLiPhongTro\DTO\obj\Debug\DTO.pdb
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DTO\bin\Debug\DTO.dll
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DTO\bin\Debug\DTO.pdb
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DTO\obj\Debug\DTO.dll
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DTO\obj\Debug\DTO.pdb

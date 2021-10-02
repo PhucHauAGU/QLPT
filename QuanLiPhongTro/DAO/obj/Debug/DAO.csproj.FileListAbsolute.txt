@@ -1,0 +1,14 @@
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\bin\Debug\DAO.dll
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\bin\Debug\DAO.pdb
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\bin\Debug\DTO.dll
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\bin\Debug\DTO.pdb
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\obj\Debug\DAO.dll
+C:\App\QLPT\QLPT\QuanLiPhongTro\DAO\obj\Debug\DAO.pdb
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\bin\Debug\DAO.dll
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\bin\Debug\DAO.pdb
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\bin\Debug\DTO.dll
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\bin\Debug\DTO.pdb
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\obj\Debug\DAO.dll
+C:\App\QLPT\DTH185274_PhucHau\QuanLiPhongTro\DAO\obj\Debug\DAO.pdb
